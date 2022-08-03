@@ -1,0 +1,63 @@
+#classic {
+    padding: 1em;
+    font-weight: 600;
+    text-align: justify
+    font-family: ;
+    margin-right: 70%;
+}
+
+#modern {
+    padding: 1em;
+    font-weight: 600;
+    text-align: center;
+    font-family: ;
+    background-color: gold;
+    margin-right: 70%;
+}
+
+#impact {
+    padding: 1em;
+    font-weight: 600;
+    text-align: center
+    font-family: times serif;
+    border: 18px double black;
+    background-color: lightgreen;
+    margin-right: 70%;
+}
+
+#elise {
+    padding: 1em;
+    text-align: center;
+    background-color: floralwhite;
+    border: 8px groove floralwhite;
+    font-family: ;
+    margin-right: 70%;
+}
+
+#one, #two  {
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 12%;
+    padding: 1.5em 1.5em 0em 1.5em;
+    text-align: center;
+    background-color: aquamarine;
+    border: 9px ridge darkturquoise;
+}
+
+#gaudi {
+    padding: 1.3em;
+    line-height: 1.4;
+    text-align: center;
+    font-family: Optima, sans-serif;
+    font-weight: 700;
+    background-color: lightsalmon;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-right: 70%;
+}
+
+
+
+
